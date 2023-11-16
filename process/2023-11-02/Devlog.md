@@ -33,7 +33,7 @@ The day was productive. I sketched some new ideas for the Caran D'Ache Project. 
 
 ## 2023-11-02
 
-Second day of the hub. Today was a prototyping and sketching day. I am trying novel 
+Second day of the hub. Today was a prototyping and sketching day. I am trying novel combinnations out as to come up with new ideas. Sketching and brainstorming is helping throughout this process.
 
 ## 2023-11-01
 
