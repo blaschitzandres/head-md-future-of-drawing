@@ -2,7 +2,7 @@
 
 - 3D Modelling (Fusion360)
 - Wearable Design (Fine-tuning)
-  -Repurpose Design (Taking into account flexibilty and PPG sensor on the wrist)
+  - Repurpose Design (Taking into account flexibilty and PPG sensor on the wrist)
 
 
 ## Materials
