@@ -7,10 +7,13 @@
 
 ## Materials
 
+- Elastic bandage
+- Mini plastic capsule for the LED Light ?
 - 3D Print 
 - Cast 3D print with plaster for Biopolimer 
 - Biopolimer 
-  - Algae Ingredients: Agar, Glycerine.
+  - Ingredients: Agar Agar, Glycerine.
+
 
 
 ## Electronics
@@ -24,7 +27,9 @@
 ## Code/Technical Stuff
 
 - BPM Data Reading 
-- "Coherence Cardiac" to transform bpm values 
 - Bluetooth from ESP32s to iPad
+- Use "Coherence Cardiac" to transform bpm values ?  This values affect drawing
+- Hand Recognition API for drawing
+
 
 
