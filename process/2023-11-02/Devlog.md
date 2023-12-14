@@ -2,6 +2,33 @@
 
 This is my file with my daily process
 
+## 2023-12-14
+
+Testing day! Testing day was more than just showcasing our projects and let them recieve feedback from our MD2 colleagues. It was about cooperation, collaboration, being designers that want to help and support themselves. It felt like a community, that hadn't properly met yet. The groups and the distribution were all in all fine and well-structured, with room for improvement (which is always there). It went actually really well, even though some of use were not able to finish everything on time due to the school examination that ultimately didn't take place. However, I managed to do more tesing after the discussion with Laure and Douglas. 
+
+Regarding my tests and results I collected:
+
+Part I: morning test insights/feedback
+
+- competition vs collaboration? what do you want for your project? This should be clarified
+- embrace the art/novelty/relaxation
+- is the ink supply graphic triggering anxiety? (for them it was)
+- maybe make the instructions virtual (this could be done i.e. on figma at first)
+- design maybe a calibration moment first ?
+- maybe each person could have a different color?
+- maybe the stroke weight could change instead of having the ink supply graphic?
+
+Part II: afternoon test insights/ feedback
+
+- how are u going to make the values change and that people don't stay in a "relaxation/coherent" state forever?
+-maybe add complexity to it??
+-also interesting: a databse of the artworks that were designed would be a "nice-to-have". It would be interesting to see how the graphic patterns would "hide" some patterns in the drawings and could be used for 'medical purposes"
+- the export function seems really positive because it's a sort of " visual history" and souvenir for the end of the experience.
+- the biomaterial really resembles the softness and "organic" aspect of the project
+
+
+
+
 ## 2023-11-16
 
 Today we had the design [crit](/presentations/HEAD-MD1_Caran-d-Ache_Andres-AcostaBlaschitz_iHeart.pdf) with Caran D'Ache. We were able to showcase our prototypes and recieve direct feedback from our porfessors, external lecturer and the head of communication at Caran D'Ache. It was exciting to have real time feeback of not just the lecturers but from other students. The feedback and the collaborative atmosphere definetely evoke a nice gut feeling for the upcoming weeks and further development of the project.
