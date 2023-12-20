@@ -21,8 +21,8 @@ Part I: morning test insights/feedback
 Part II: afternoon test insights/ feedback
 
 - how are u going to make the values change and that people don't stay in a "relaxation/coherent" state forever?
--maybe add complexity to it??
--also interesting: a databse of the artworks that were designed would be a "nice-to-have". It would be interesting to see how the graphic patterns would "hide" some patterns in the drawings and could be used for 'medical purposes"
+- maybe add complexity to it??
+- also interesting: a databse of the artworks that were designed would be a "nice-to-have". It would be interesting to see how the graphic patterns would "hide" some patterns in the drawings and could be used for 'medical purposes"
 - the export function seems really positive because it's a sort of " visual history" and souvenir for the end of the experience.
 - the biomaterial really resembles the softness and "organic" aspect of the project
 
