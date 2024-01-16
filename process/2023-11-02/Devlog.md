@@ -2,6 +2,33 @@
 
 This is my file with my daily process
 
+
+## 2024-01-8
+
+Different recipes for bioplastics were tried out, and also the feedback gathered at CERCCO was implementd. Among the ingredients that were used for the many iterations were: vinegar, cornstarch, linseed oil, agar, water, eggs. Some good recipes and informations regarding bioplastics were found at the WdKa Academy in the Netherlands. Another good source of inspiration and information was the Bioplastic Cook Book by Margaret Dunne.  
+
+## 2024-01-02 until 2024-01-5
+
+During these days I started exploring the programs and alternatives for my project, which features hand detection and esp32 bluetooth connection. I decided narrowing possibilities and went for an approach using p5js and the mediapipe library from google. During these days, I learned the possibilities of the library, the implementation of hand-pinch, among other things. During these day I decided to make several iterations of the biopolimer's casting. Main issues were: consistency, texture, drying requirements, difficulty to pour the material and avoid bubbles or unfilled spaces of the mold, hardnness of the silicone mold, among others.
+
+## 2023-12-21
+
+On this day, I went to the digital pool to get some guidance in how to research, what to research, how to make design questions and narrow the project. This was really helpful since they are developing a project that has to electronic waste and bio electronic waste. This was a key moment for my project, since it made me realise that we have to repurpose everyday things and start exploring alternatives to plastic and materials that aren't as eco-friendly.
+
+
+
+## 2023-12-20
+
+During this day I did the casting of my 3D Printed 3D Model. This was executed at the CERCCO, where they research on materials and implement new technologies within the worl of ceramics, casting, silicone, plaster. 
+
+
+
+## 2023-12-18
+
+Shape deisgn day. This day was used to implement fusion 360 knowledge to come up with a redesigned version of the characteristic shape that will be used for the product design. I was probvided with help by Laure Krayenbuehl (Product Designer) to repurpose the design and make the electronic fit inside. I also learned how to trace shapes from svg files within the tools provided by the aforementioned software.
+
+
+
 ## 2023-12-14
 
 Testing day! Testing day was more than just showcasing our projects and let them recieve feedback from our MD2 colleagues. It was about cooperation, collaboration, being designers that want to help and support themselves. It felt like a community, that hadn't properly met yet. The groups and the distribution were all in all fine and well-structured, with room for improvement (which is always there). It went actually really well, even though some of use were not able to finish everything on time due to the school examination that ultimately didn't take place. However, I managed to do more tesing after the discussion with Laure and Douglas. 
