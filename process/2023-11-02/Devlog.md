@@ -3,6 +3,8 @@
 This is my file with my daily process
 
 
+
+
 ## 2024-01-8
 
 Different recipes for bioplastics were tried out, and also the feedback gathered at CERCCO was implementd. Among the ingredients that were used for the many iterations were: vinegar, cornstarch, linseed oil, agar, water, eggs. Some good recipes and informations regarding bioplastics were found at the WdKa Academy in the Netherlands. Another good source of inspiration and information was the Bioplastic Cook Book by Margaret Dunne.  
