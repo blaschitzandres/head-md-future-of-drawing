@@ -2,6 +2,39 @@
 
 This is my file with my daily process
 
+## 2024-01-17
+Demo day. Today we presented all of the projects for the jury. Sadly, the Caran D'Ache representant wasn't able to make it, but we all managaed to showcase our projects and show the final iterations of them as of now. We were provided with feedback and installation adaptations that would be possible to make. All in all, we had a good feedback exchange and were able to show the status quo of the projects, both the technical and product design aspects.
+
+## 2024-01-8 until 2024-01-16
+
+During these dayss, the final iteration for the demo was prepared. The electronic part was finalised, the setup for the access of the serial port to fetch sensor data was done, as well as the debugging of the web-based app developed to detect hand-tracking. During these days I encountered myself with some bugs that were causing trouble and these were documented.
+
+-Serial port name is sometimes renamed differently by the computer by the default
+-Node.js access: install in the correct dolder where the serialport-direct-test is stored, install pbm, server is running at htttp://localhost:8080/ by default
+-Click on Reset of Esp32 to start recieving data
+
+Why chrome Server doesn't attach to Visual Code Studio Debugger?
+1. Go to project folder
+2.  Add server in terminal via python3 -m http.server 8000
+3. use Isof and kill using PID
+4. try to add server again via python3 -m http.server 8000
+
+If errors still appear:
+
+-Close terminal tabs where Node.js is active
+-Close the aforementioned tabs via control + c
+-Run node server.js
+
+If errors still appear:
+-Check if you are in the actual port with the correct port name
+-Note that I'm fetching data from localhost8080
+-Note that I'm hosting my server for debugging (chrome) on localhost 8000 (launnch.json)
+
+In terms of the last issues with the bioplastic casting:
+- The silicone mold created at CERCCO was to hard and it should be made out of thinner walls for the future to enhance the demolding process
+-Demolding was hard and brushing the inner walls with oil helped to get the bioplastic out of the mold in a smoother way
+-m 
+
 
 
 
